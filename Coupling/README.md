@@ -12,7 +12,7 @@ Junittesting -->
 
 MOCKITO --> 
 
-Spring MVC  --> spring boot
+Spring MVC  --> spring boot sending data
 
 AOP Autowored in main class -->
 
@@ -25,4 +25,4 @@ http://localhost:8080/h2-console
 
 JPA --> h2 hibernate @annotations
 
-mvc --> login and pass
+mvc --> login and pass error
