@@ -1,6 +1,6 @@
 # SpringzFramework
-Telusko
-XML-> annotation -> property -> autowired
+Ranga
+
 
 https://github.com/in28minutes/spring-master-class
 
