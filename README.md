@@ -1,7 +1,9 @@
 # SpringzFramework
 Telusko
-XML-> annotation -> property -> autowired
+XML ==  annotation -> property -> autowired
+
+annotation == config -> componenet -> autowire
 
 SpringframeworkmasterClass -> coupling
 
-autowire -> config -> componenet -> autowire
+
