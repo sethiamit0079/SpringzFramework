@@ -8,4 +8,6 @@ demo == springboot telusko youtube
 
 SpringframeworkmasterClass -> coupling
 
+Post man get ger/id post
+
 
